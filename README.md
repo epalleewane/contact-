@@ -1,5 +1,5 @@
 # maven-project
 
 Simple Maven Project
-this is a full devops pipeline 
+This is a full devops pipeline 
 
